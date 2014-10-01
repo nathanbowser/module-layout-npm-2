@@ -1,0 +1,15 @@
+{
+  "name": "module-layout",
+  "version": "1.0.0",
+  "description": "Parent, main thing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child-dep-a": "file:child-dep-a",
+    "request": "^2.44.0"
+  }
+}
