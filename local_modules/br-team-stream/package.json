@@ -1,0 +1,16 @@
+{
+  "name": "br-team-stream",
+  "version": "1.0.1",
+  "description": "scrape team stream data from bleacher report",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "faiq",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "dep2": "file:../dep2",
+    "request": "1.0.0"
+  }
+}
