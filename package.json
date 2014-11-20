@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "child-dep-a": "file:child-dep-a",
-    "request": "^2.44.0"
+    "br-team-stream": "file:local_modules/br-team-stream",
+    "dep2": "file:local_modules/dep2",
+    "dep3": "file:local_modules/dep3",
+    "request": "2.44.0"
   }
 }
